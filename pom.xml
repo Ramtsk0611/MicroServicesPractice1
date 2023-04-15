@@ -9,5 +9,6 @@
     <packaging>pom</packaging>
     <modules>
         <module>storeapp</module>
+        <module>store-config-server</module>
     </modules>
 </project>
