@@ -24,7 +24,7 @@ import com.mphasis.storeapp.service.IProductService;
 public class ProductController {
 
 @Autowired	
-private IProductService productService;
+private IProductService productService ;
 
 
 @GetMapping(produces = MediaType.APPLICATION_JSON_VALUE)
